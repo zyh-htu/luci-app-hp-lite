@@ -8,3 +8,4 @@ hp-lite客户端适用于openwrt的ipk安装包
 
 opkg install luci-app-hp-lite*.ipk
 安装完毕，你可以在 /usr/bin 目录下找到对应的二进制文件。
+<img width="2530" height="1346" alt="屏幕截图 2025-12-25 114907" src="https://github.com/user-attachments/assets/46f1eeb3-6448-47e2-825d-e64f283cbca2" />
