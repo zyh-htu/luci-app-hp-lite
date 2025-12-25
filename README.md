@@ -12,4 +12,8 @@ opkg install luci-app-hp-lite*.ipk
 
 点击保存并应用
 <img width="2544" height="1340" alt="3" src="https://github.com/user-attachments/assets/1fd3c976-c8dd-4347-935c-21fac5c11f96" />
+
+点击启动服务
+<img width="2520" height="1338" alt="image" src="https://github.com/user-attachments/assets/0e695a70-af99-4a44-ac4b-11f53fe6bd6b" />
+
 <img width="2530" height="1346" alt="4" src="https://github.com/user-attachments/assets/6572c16d-b726-4abd-a2e7-09111e54eca9" />
