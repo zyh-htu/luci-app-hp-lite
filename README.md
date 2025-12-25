@@ -10,7 +10,7 @@ Add connection code
 <img width="2544" height="1340" alt="2" src="https://github.com/user-attachments/assets/37673a8d-9645-4a38-8ece-ee4e5b723524" />
 
 
-Click Save and Apply
+Click save and apply
 <img width="2544" height="1340" alt="3" src="https://github.com/user-attachments/assets/1fd3c976-c8dd-4347-935c-21fac5c11f96" />
 
 Click to start the service
