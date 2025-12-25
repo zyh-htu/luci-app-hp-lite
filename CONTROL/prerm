@@ -1,0 +1,10 @@
+#!/bin/sh
+/etc/init.d/hp-lite stop
+/etc/init.d/hp-lite disable
+rm -f /usr/bin/hp-lite
+rm -rf /tmp/hp-lite
+rm -rf /tmp/log/hp-lite
+rm -f /tmp/lock/procd_hp-lite*.lock
+rm -rf /tmp/run/rpcd/uci-*/hp-lite
+sed -i "/# hp-lite-log-clean/d" /etc/crontabs/root
+exit 0

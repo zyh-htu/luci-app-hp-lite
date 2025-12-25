@@ -1,0 +1,4 @@
+#!/bin/sh
+/etc/init.d/hp-lite enable
+/etc/init.d/hp-lite start
+exit 0

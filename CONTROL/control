@@ -1,0 +1,10 @@
+Package: luci-app-hp-lite
+Version: 6.0
+Architecture: all
+Maintainer: zhangyahao
+Section: net
+Priority: optional
+Depends: libc, uci, luci-base, luci-mod-admin-full
+Description: Lightweight internal network penetration client for OpenWrt
+ This package provides the hp-lite client for internal network penetration.
+ It includes the daemon, init script, configuration file, and LuCI interface.

@@ -1,0 +1,5 @@
+
+config hp-lite 'global'
+	option connect_code '连接码'
+	option log_retention_days ''
+
