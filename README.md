@@ -1,4 +1,4 @@
-# luci-app-hp-lite
+# hp-lite
 hp-lite client is suitable for openwrt ipk installation package
 
 # Installation instructions
